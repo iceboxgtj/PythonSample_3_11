@@ -1,0 +1,123 @@
+# ===============================
+# 기본 OS 및 에디터 임시 파일
+# ===============================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.~*
+
+# ===============================
+# C / C++ / C# / Java / Python 공통 빌드 산출물
+# ===============================
+*.obj
+*.o
+*.lo
+*.ilk
+*.pdb
+*.idb
+*.res
+*.pch
+*.exe
+*.out
+*.dll
+*.so
+*.lib
+*.a
+*.la
+*.dylib
+*.exp
+*.class
+*.jar
+*.war
+*.ear
+*.msi
+*.ncb
+*.sdf
+*.cachefile
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+*.aps
+*.user
+*.suo
+*.ipch
+*.rsp
+*.dbmdl
+*.opendb
+*.VC.db
+*.VC.opendb
+*.manifest
+
+# ===============================
+# Python 관련
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+.venv/
+venv/
+ENV/
+env/
+
+# ===============================
+# Visual Studio / VSCode / JetBrains
+# ===============================
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+
+# ===============================
+# Git / Gitea / SourceTree
+# ===============================
+*.orig
+*.rej
+*.diff
+*.patch
+*.merge_file*
+*.swp
+*.swo
+
+# ===============================
+# 기타 언어 / 툴 별 예외
+# ===============================
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Java build
+target/
+bin/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+build/
+
+# ===============================
+# OS별 휴지통 폴더
+# ===============================
+$RECYCLE.BIN/
+.Trash-*
