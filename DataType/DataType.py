@@ -19,3 +19,7 @@ falsePlusFive = False + 5
 
 print(f"트루의 합은{trueSum}")
 print(f"펄스와 5를 더하면{falsePlusFive}")
+
+x , y , z = 1,2,3
+print(x,y,z)
+
